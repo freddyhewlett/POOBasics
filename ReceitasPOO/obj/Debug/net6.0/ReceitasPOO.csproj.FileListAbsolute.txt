@@ -1,0 +1,15 @@
+D:\Workplace\VS Community\ReceitasPOO\ReceitasPOO\ReceitasPOO\bin\Debug\net6.0\ReceitasPOO.exe
+D:\Workplace\VS Community\ReceitasPOO\ReceitasPOO\ReceitasPOO\bin\Debug\net6.0\ReceitasPOO.deps.json
+D:\Workplace\VS Community\ReceitasPOO\ReceitasPOO\ReceitasPOO\bin\Debug\net6.0\ReceitasPOO.runtimeconfig.json
+D:\Workplace\VS Community\ReceitasPOO\ReceitasPOO\ReceitasPOO\bin\Debug\net6.0\ReceitasPOO.dll
+D:\Workplace\VS Community\ReceitasPOO\ReceitasPOO\ReceitasPOO\bin\Debug\net6.0\ReceitasPOO.pdb
+D:\Workplace\VS Community\ReceitasPOO\ReceitasPOO\ReceitasPOO\obj\Debug\net6.0\ReceitasPOO.csproj.AssemblyReference.cache
+D:\Workplace\VS Community\ReceitasPOO\ReceitasPOO\ReceitasPOO\obj\Debug\net6.0\ReceitasPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workplace\VS Community\ReceitasPOO\ReceitasPOO\ReceitasPOO\obj\Debug\net6.0\ReceitasPOO.AssemblyInfoInputs.cache
+D:\Workplace\VS Community\ReceitasPOO\ReceitasPOO\ReceitasPOO\obj\Debug\net6.0\ReceitasPOO.AssemblyInfo.cs
+D:\Workplace\VS Community\ReceitasPOO\ReceitasPOO\ReceitasPOO\obj\Debug\net6.0\ReceitasPOO.csproj.CoreCompileInputs.cache
+D:\Workplace\VS Community\ReceitasPOO\ReceitasPOO\ReceitasPOO\obj\Debug\net6.0\ReceitasPOO.dll
+D:\Workplace\VS Community\ReceitasPOO\ReceitasPOO\ReceitasPOO\obj\Debug\net6.0\refint\ReceitasPOO.dll
+D:\Workplace\VS Community\ReceitasPOO\ReceitasPOO\ReceitasPOO\obj\Debug\net6.0\ReceitasPOO.pdb
+D:\Workplace\VS Community\ReceitasPOO\ReceitasPOO\ReceitasPOO\obj\Debug\net6.0\ReceitasPOO.genruntimeconfig.cache
+D:\Workplace\VS Community\ReceitasPOO\ReceitasPOO\ReceitasPOO\obj\Debug\net6.0\ref\ReceitasPOO.dll
